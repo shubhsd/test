@@ -44,6 +44,8 @@ const SelectLanguage = ({navigation}) => {
           style={{
             flex: 0.2,
             // justifyContent: 'flex-end',
+
+            
             justifyContent: 'center',
           }}>
           <Text style={styles.textStyle}>{strings.CHOOSE_YOUR_LANGUAGE}</Text>
